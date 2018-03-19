@@ -1,4 +1,6 @@
+var $ = require("jquery");
+var Menu = require("./menu");
 $(function() {
-    menu();
+var mainMenu = new Menu();
 }
     );
