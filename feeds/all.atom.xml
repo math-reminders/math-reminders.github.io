@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Math-reminders</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-04-04T19:09:00+03:00</updated><entry><title>О блоге</title><link href="/o-bloge.html" rel="alternate"></link><published>2018-04-04T19:09:00+03:00</published><updated>2018-04-04T19:09:00+03:00</updated><author><name>Vadim Kholodilo</name></author><id>tag:None,2018-04-04:/o-bloge.html</id><summary type="html">&lt;p&gt;Когда я начал готовиться к егэ по профильной математике, я подумал, что будет круто сохранять какие-то заметки на сайте, они не потеряются, да и поделиться с кем-то можно.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Math-reminders</title><link href="https://math-reminders.github.io/" rel="alternate"></link><link href="https://math-reminders.github.io/feeds/all.atom.xml" rel="self"></link><id>https://math-reminders.github.io/</id><updated>2018-04-04T19:09:00+03:00</updated><entry><title>О блоге</title><link href="https://math-reminders.github.io/o-bloge.html" rel="alternate"></link><published>2018-04-04T19:09:00+03:00</published><updated>2018-04-04T19:09:00+03:00</updated><author><name>Vadim Kholodilo</name></author><id>tag:math-reminders.github.io,2018-04-04:/o-bloge.html</id><summary type="html">&lt;p&gt;Когда я начал готовиться к егэ по профильной математике, я подумал, что будет круто сохранять какие-то заметки на сайте, они не потеряются, да и поделиться с кем-то можно.
 Так и появился этот блог.
 Если вы нашли какие-либо ошибки, то, пожалуйста, дайте мне об этом знать.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Когда я начал готовиться к егэ по профильной математике, я подумал, что будет круто сохранять какие-то заметки на сайте, они не потеряются, да и поделиться с кем-то можно.
 Так и появился этот блог.
-Если вы нашли какие-либо ошибки, то, пожалуйста, дайте мне об этом знать.&lt;/p&gt;</content></entry></feed>
+Если вы нашли какие-либо ошибки, то, пожалуйста, дайте мне об этом знать.&lt;/p&gt;</content><category term="прочие"></category></entry><entry><title>Теорема Птолемея</title><link href="https://math-reminders.github.io/teorema-ptolemeia.html" rel="alternate"></link><published>2018-04-04T19:09:00+03:00</published><updated>2018-04-04T19:09:00+03:00</updated><author><name>Vadim Kholodilo</name></author><id>tag:math-reminders.github.io,2018-04-04:/teorema-ptolemeia.html</id><summary type="html">&lt;p&gt;
+Сегодня мне бы хотелось вам рассказать о теореме Птолемея, которая может сильно упростить вам жизнь при решении некоторых геометрических задач.
+&lt;/p&gt;
+
+&lt;h2&gt; Теорема &lt;/h2&gt;
+
+&lt;p&gt;Выпуклый четырёх угольник можно вписать в окружность, если выполняется следующее неравенство:
+(AB+CD)(AD+BC) &amp;gt;= AC * BC
+&lt;h2&gt; Доказательство &lt;/h2&gt;
+Сейчас я его не знаю.
+Докажем когда-нибудь потом.&lt;/p&gt;</summary><content type="html">&lt;p&gt;
+Сегодня мне бы хотелось вам рассказать о теореме Птолемея, которая может сильно упростить вам жизнь при решении некоторых геометрических задач.
+&lt;/p&gt;
+
+&lt;h2&gt; Теорема &lt;/h2&gt;
+
+&lt;p&gt;Выпуклый четырёх угольник можно вписать в окружность, если выполняется следующее неравенство:
+(AB+CD)(AD+BC) &amp;gt;= AC * BC
+&lt;h2&gt; Доказательство &lt;/h2&gt;
+Сейчас я его не знаю.
+Докажем когда-нибудь потом.&lt;/p&gt;</content><category term="Геометрия"></category><category term="планиметрия"></category></entry></feed>
